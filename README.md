@@ -1,7 +1,5 @@
 # Internship Icalia Labs 2017
 
-![suspenders.png](suspenders.png)
-
 ![kuri-minions.gif](kuri-minions.gif)
 
 Welcome young padawans, you are about to enter into a new adventure called Internship, we sincerely will put everything on us for you to learn and become jedi masters.
@@ -12,5 +10,5 @@ The internship will consist on a 2 month program where you will exponentially le
 
 The content for the first month is outlined down here:
 
-[Week 1: Ruby & Git Introduction](https://github.com/Internship2017/week1)
-[Week 2: Testing](https://github.com/Internship2017/wee2)
+* [Week 1: Ruby & Git Introduction](https://github.com/Internship2017/week1)
+* [Week 2: Testing](https://github.com/Internship2017/wee2)
