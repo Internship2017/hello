@@ -12,3 +12,4 @@ The content for the first month is outlined down here:
 
 * [Week 1: Ruby & Git Introduction](https://github.com/Internship2017/week1)
 * [Week 2: Testing](https://github.com/Internship2017/week2)
+* [Week 3: Rails Part 1](https://github.com/Internship2017/week3)
