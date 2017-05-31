@@ -2,6 +2,8 @@
 
 ![suspenders.png](suspenders.png)
 
+![kuri-minions.gif](kuri-minions.gif)
+
 Welcome young padawans, you are about to enter into a new adventure called Internship, we sincerely will put everything on us for you to learn and become jedi masters.
 
 I'm very excited you are here, let's jump in and enjoy the ride.
