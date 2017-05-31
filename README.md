@@ -11,3 +11,4 @@ The internship will consist on a 2 month program where you will exponentially le
 The content for the first month is outlined down here:
 
 [Week 1: Ruby & Git Introduction](https://github.com/Internship2017/week1)
+[Week 2: Testing](https://github.com/Internship2017/wee2)
